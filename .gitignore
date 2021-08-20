@@ -111,3 +111,8 @@ venv.bak/
 .mypy_cache/
 
 .idea/
+
+#MADE BY ALI
+/data/
+/models/
+/.vscode/
